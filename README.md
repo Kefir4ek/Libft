@@ -6,16 +6,18 @@ Libft is a library we created in C to help us during the WeThinkCode journey.
 WeThinkCode:
 Part 1: 28/28
 Part 2: 24/24
-Bonus: 0/6
+Bonus: 6/6
 Five Extra: 5/5
 
-Total: 111/125
+Total: 125/125
 
 Installation:
+
 To get started, clone the Libft repo and go into the folder:
 
 git clone https://github.com/mikefmeyer/libft
 cd libft/
+
 Making:
 To compile the libft, you need to run the following commands:
 
